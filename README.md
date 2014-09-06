@@ -1,2 +1,1 @@
-En este repositorio estará el ejercicio del programa Alcancía, primer 
-ejercicio de todo el curso :)
+En este repositorio estará el ejercicio del programa: Juego de Canicas, segundo ejercicio del curso.
