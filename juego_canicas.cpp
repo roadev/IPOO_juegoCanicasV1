@@ -26,29 +26,24 @@ JuegoCanicas::~JuegoCanicas() {
 
 }
 
-void JuegoCanicas::retornarCanicas()
+void JuegoCanicas::comprarCanicas()
 {
-//    return numCanicas;
+    numCanicas += 15;
 }
 
-void JuegoCanicas::agregarCanicas()
+void JuegoCanicas::ganarCanica()
 {
-    //numCanicas;
+    numCanicas ++;
 }
 
-void JuegoCanicas::ganarCanicas()
+void JuegoCanicas::perderCanica()
 {
-    //numCanicas;
+    numCanicas --;
 }
 
-void JuegoCanicas::perderCanicas()
+void JuegoCanicas::romperBolsa()
 {
-    
-}
-
-void JuegoCanicas::perderTodo()
-{
-    
+    numCanicas = 0;
 }
 
 int JuegoCanicas::getRetornarCanicas()
