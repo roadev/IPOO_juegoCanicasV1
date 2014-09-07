@@ -1,6 +1,6 @@
 /* Autor: Hecho por Juan David Roa Valencia
  * Fecha de creación: 04/09/14
- * Versión: 0.1.1
+ * Versión: 0.2.1
  * 
  * Nombre de la Clase: main
  * Responsabilidad: 
@@ -26,27 +26,22 @@ JuegoCanicas::~JuegoCanicas() {
 
 }
 
-void JuegoCanicas::comprarCanicas()
-{
+void JuegoCanicas::comprarCanicas() {
     numCanicas += 15;
 }
 
-void JuegoCanicas::ganaCanica()
-{
+void JuegoCanicas::ganaCanica() {
     numCanicas ++;
 }
 
-void JuegoCanicas::pierdeCanica()
-{
+void JuegoCanicas::pierdeCanica() {
     numCanicas --;
 }
 
-void JuegoCanicas::romperBolsa()
-{
+void JuegoCanicas::romperBolsa() {
     numCanicas = 0;
 }
 
-int JuegoCanicas::getRetornarCanicas()
-{
+int JuegoCanicas::getRetornarCanicas() {
     return numCanicas;
 }

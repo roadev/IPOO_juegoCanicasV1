@@ -1,6 +1,6 @@
 /* Autor: Hecho por Juan David Roa Valencia
  * Fecha de creación: 04/09/14
- * Versión: 0.1.1
+ * Versión: 0.2.1
  * 
  * Nombre de la Clase: main
  * Responsabilidad: 
@@ -27,7 +27,7 @@ public: // Métodos
     void ganaCanica();
     void pierdeCanica();
     void romperBolsa();
-
+    
     // SET
 
     /*void setAgregarCanicas();

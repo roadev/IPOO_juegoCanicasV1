@@ -17,12 +17,12 @@ using namespace std;
 
 void jugar(string nombreJugador, bool gana){
     
-    if( ((nombreJugador == "juliana") && (gana)) || ((nombreJugador == "mario") && (!gana)) ){
+    if( ((nombreJugador == "juliana") && (gana)) || ((nombreJugador == "mario") && (!gana)) ) {
 		juliana.ganaCanica();
 		mario.pierdeCanica();		
 	}
 
-	if( ((nombreJugador == "mario") && (gana)) || ((nombreJugador == "juliana") && (!gana)) ){
+	if( ((nombreJugador == "mario") && (gana)) || ((nombreJugador == "juliana") && (!gana)) ) {
 		mario.ganaCanica();
 		juliana.pierdeCanica();		
 	}
