@@ -31,12 +31,12 @@ void JuegoCanicas::comprarCanicas()
     numCanicas += 15;
 }
 
-void JuegoCanicas::ganarCanica()
+void JuegoCanicas::ganaCanica()
 {
     numCanicas ++;
 }
 
-void JuegoCanicas::perderCanica()
+void JuegoCanicas::pierdeCanica()
 {
     numCanicas --;
 }

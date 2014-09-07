@@ -24,14 +24,14 @@ public: // Métodos
     ~JuegoCanicas();
     
     void comprarCanicas();
-    void ganarCanica();
-    void perderCanica();
+    void ganaCanica();
+    void pierdeCanica();
     void romperBolsa();
 
     // SET
 
-    void setAgregarCanicas();
-    void setPerderCanicas();
+    /*void setAgregarCanicas();
+    void setPierderCanica();*/
     
     // GET 
     int getRetornarCanicas();

@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=IPOO_juegoCanicasV1
+PROJECTNAME=IPOO_juegoCanicas
 
 # Active Configuration
 DEFAULTCONF=Debug

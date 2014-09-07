@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux-x86
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
-CND_ARTIFACT_NAME_Debug=ipoo_juegocanicasv1
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/ipoo_juegocanicasv1
+CND_ARTIFACT_NAME_Debug=ipoo_juegocanicas
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/ipoo_juegocanicas
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=ipoojuegocanicasv1.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/ipoojuegocanicasv1.tar
+CND_PACKAGE_NAME_Debug=ipoojuegocanicas.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/ipoojuegocanicas.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=ipoo_juegocanicasv1
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/ipoo_juegocanicasv1
+CND_ARTIFACT_NAME_Release=ipoo_juegocanicas
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/ipoo_juegocanicas
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=ipoojuegocanicasv1.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/ipoojuegocanicasv1.tar
+CND_PACKAGE_NAME_Release=ipoojuegocanicas.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/ipoojuegocanicas.tar
 #
 # include compiler specific variables
 #
