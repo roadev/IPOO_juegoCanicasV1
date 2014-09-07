@@ -13,28 +13,29 @@
 
 class JuegoCanicas {
 
+private: //Atributos
+
+    int numCanicas; 
+    
 public: // Métodos
     
     JuegoCanicas();
 
     ~JuegoCanicas();
     
-    void retornarCanicas();
-    void agregarCanicas();
-    void ganarCanicas();
-    void perderCanicas();
-    void perderTodo();
+    void comprarCanicas();
+    void ganarCanica();
+    void perderCanica();
+    void romperBolsa();
 
-    //Get and Set
+    // SET
 
     void setAgregarCanicas();
     void setPerderCanicas();
-    //void 
+    
+    // GET 
     int getRetornarCanicas();
    
-private: //Atributos
-
-    int numCanicas; 
 };
 
 #endif	/* JUEGOCANICAS_H */
