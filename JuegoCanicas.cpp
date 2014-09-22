@@ -8,9 +8,7 @@
 
  */
 
-#include "juego_canicas.h"
-#include <iostream>
-using namespace std;
+#include "JuegoCanicas.h"
 
 JuegoCanicas::JuegoCanicas() {
     
@@ -18,12 +16,10 @@ JuegoCanicas::JuegoCanicas() {
 
     cout<<"El número de Canicas nunca puede ser menor que cero"<<endl;
 }
-
     numCanicas = 5;
 }
 
 JuegoCanicas::~JuegoCanicas() {
-
 }
 
 void JuegoCanicas::comprarCanicas() {

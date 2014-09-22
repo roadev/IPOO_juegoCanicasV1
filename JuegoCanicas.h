@@ -8,6 +8,9 @@
 
  */
 
+#include <iostream>
+#include <string>
+using namespace std;
 #ifndef JUEGOCANICAS_H
 #define	JUEGOCANICAS_H
 
@@ -26,16 +29,8 @@ public: // Métodos
     void comprarCanicas();
     void ganaCanica();
     void pierdeCanica();
-    void romperBolsa();
-    
-    // SET
-
-    /*void setAgregarCanicas();
-    void setPierderCanica();*/
-    
+    void romperBolsa(); 
     // GET 
     int getRetornarCanicas();
-   
 };
-
 #endif	/* JUEGOCANICAS_H */

@@ -1,3 +1,3 @@
-build/Debug/GNU-Linux-x86/main.o: main.cpp juego_canicas.h
+build/Debug/GNU-Linux-x86/main.o: main.cpp JuegoCanicas.h
 
-juego_canicas.h:
+JuegoCanicas.h:

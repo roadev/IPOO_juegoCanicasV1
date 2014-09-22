@@ -8,9 +8,7 @@
 
  */
 
-#include "juego_canicas.h"
-#include <iostream>
-using namespace std;
+#include "JuegoCanicas.h"
 
     JuegoCanicas juliana; // Creación del objeto/variable global "juliana"
     JuegoCanicas mario; //Creación del objeto/variable global "mario"
